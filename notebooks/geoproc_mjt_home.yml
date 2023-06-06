@@ -31,6 +31,7 @@ dependencies:
   - brotli-bin=1.0.9=hcfcfb64_8
   - bzip2=1.0.8=h8ffe710_4
   - c-ares=1.18.1=h8ffe710_0
+  - c-blosc2=2.9.2=h183a6f4_0
   - ca-certificates=2023.5.7=h56e8100_0
   - cached-property=1.5.2=hd8ed1ab_1
   - cached_property=1.5.2=pyha770c72_1
@@ -184,6 +185,7 @@ dependencies:
   - pthread-stubs=0.4=hcd874cb_1001
   - pthreads-win32=2.9.1=hfa6e2cd_3
   - pure_eval=0.2.2=pyhd8ed1ab_0
+  - py-cpuinfo=9.0.0=pyhd8ed1ab_0
   - pyarrow=12.0.0=py310hd1a9178_1_cpu
   - pygments=2.15.1=pyhd8ed1ab_0
   - pyparsing=3.0.9=pyhd8ed1ab_0
@@ -192,6 +194,7 @@ dependencies:
   - pyqt5-sip=12.11.0=py310h00ffb61_3
   - pyshp=2.3.1=pyhd8ed1ab_0
   - pysocks=1.7.1=pyh0701188_6
+  - pytables=3.8.0=py310h1915493_1
   - python=3.10.10=h4de0772_0_cpython
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python_abi=3.10=3_cp310
@@ -243,6 +246,7 @@ dependencies:
   - zict=3.0.0=pyhd8ed1ab_0
   - zipp=3.15.0=pyhd8ed1ab_0
   - zlib=1.2.13=hcfcfb64_4
+  - zlib-ng=2.0.7=hcfcfb64_0
   - zstd=1.5.2=h12be248_6
   - pip:
       - async-generator==1.10
